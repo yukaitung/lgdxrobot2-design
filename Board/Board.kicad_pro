@@ -226,7 +226,16 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_not_driven|1282700|647700|85e9effe-4b96-48bc-8ea5-8a60cbb32d31|00000000-0000-0000-0000-000000000000|/160aa31f-b05e-43e9-ba6d-41b7efa4e6a6|/160aa31f-b05e-43e9-ba6d-41b7efa4e6a6|",
+        "Vbus to measure load voltage"
+      ],
+      [
+        "pin_not_driven|1282700|952500|c6649e26-5dab-48e6-a428-c16abfaec859|00000000-0000-0000-0000-000000000000|/160aa31f-b05e-43e9-ba6d-41b7efa4e6a6|/160aa31f-b05e-43e9-ba6d-41b7efa4e6a6|",
+        "Vbus to measure load voltage"
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -448,7 +457,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "LGDXRobot2_Library"
+    ]
   },
   "meta": {
     "filename": "Board.kicad_pro",

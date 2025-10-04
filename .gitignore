@@ -1,2 +1,6 @@
 .DS_Store
 Board/Board-backups/
+Board/*.bak
+Board/*.lck
+Board/#auto_saved_files#
+Board/#auto_saved_files#
