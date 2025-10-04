@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "160aa31f-b05e-43e9-ba6d-41b7efa4e6a6")
+	(paper "A4")
+	(title_block
+		(title "LGDXRobot2 Board")
+		(date "2025-10-04")
+		(rev "v1")
+		(company "LGDXRobotics")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
