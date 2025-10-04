@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Board")(type "KiCad")(uri "/Users/sam/Develop/lgdxrobot2-design/Board.pretty")(options "")(descr ""))
+  (lib (name "LGDXRobot2")(type "KiCad")(uri "${KIPRJMOD}/LGDXRobot2.pretty")(options "")(descr ""))
+)
