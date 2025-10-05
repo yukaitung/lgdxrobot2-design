@@ -556,6 +556,33 @@
       ],
       "GND": [
         "High Power"
+      ],
+      "Net-(D1-K)": [
+        "Power"
+      ],
+      "Net-(MJ1-MV+)": [
+        "High Power"
+      ],
+      "Net-(MJ1-MV-)": [
+        "High Power"
+      ],
+      "Net-(MJ2-MV+)": [
+        "High Power"
+      ],
+      "Net-(MJ2-MV-)": [
+        "High Power"
+      ],
+      "Net-(MJ3-MV+)": [
+        "High Power"
+      ],
+      "Net-(MJ3-MV-)": [
+        "High Power"
+      ],
+      "Net-(MJ4-MV+)": [
+        "High Power"
+      ],
+      "Net-(MJ4-MV-)": [
+        "High Power"
       ]
     },
     "netclass_patterns": [
@@ -726,6 +753,114 @@
       {
         "netclass": "High Power",
         "pattern": "/DR2_B02"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB10_DR2BIN2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB2_DR2BIN1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB1_DRxSTBY"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB4_DR1AIN1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PC14_DR1BIN1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PC15_DR1BIN2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB0_DR2AIN1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB3_DR1PWMA"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB5_DR1AIN1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB6_MJ1CH1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB7_MJ1CH2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA0_MJ3CH1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA1_MJ3CH2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA2_DR1PWMB"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA3_DR2PWMA"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA4_DR2AIN2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA5_DR2PWMB"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA6_MJ4CH1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA7_M41CH2"
+      },
+      {
+        "netclass": "High Power",
+        "pattern": "/PA8_MJ2CH1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA9_MJ2CH2"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/PA10_D2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA15_RS1"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/PB15_D1"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/5V98"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA6_MJ4CH2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA7_M41CH1"
       }
     ]
   },

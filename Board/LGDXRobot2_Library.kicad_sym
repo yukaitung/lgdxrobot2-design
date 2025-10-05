@@ -1129,7 +1129,7 @@
 			(pin passive line
 				(at -3.81 6.35 0)
 				(length 3.81)
-				(name "MV+"
+				(name "MV-"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1147,7 +1147,7 @@
 			(pin power_in line
 				(at -3.81 3.81 0)
 				(length 3.81)
-				(name "ENC_GND"
+				(name "ENC_VCC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1165,7 +1165,7 @@
 			(pin output line
 				(at -3.81 1.27 0)
 				(length 3.81)
-				(name "ENC_CH1"
+				(name "ENC_CH2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1183,7 +1183,7 @@
 			(pin output line
 				(at -3.81 -1.27 0)
 				(length 3.81)
-				(name "ENC_CH2"
+				(name "ENC_CH1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1201,7 +1201,7 @@
 			(pin power_in line
 				(at -3.81 -3.81 0)
 				(length 3.81)
-				(name "ENC_VCC"
+				(name "ENC_GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1219,7 +1219,7 @@
 			(pin passive line
 				(at -3.81 -6.35 0)
 				(length 3.81)
-				(name "MV-"
+				(name "MV+"
 					(effects
 						(font
 							(size 1.27 1.27)
