@@ -861,6 +861,62 @@
       {
         "netclass": "Signal",
         "pattern": "/PA7_M41CH1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB0_DR1AIN1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA4_DR1AIN2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB2_DR1BIN1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB10_DR1BIN2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB4_DR2AIN1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB5_DR2AIN1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PC14_DR2BIN1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PC15_DR2BIN2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA0_MJ3CH2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA1_MJ3CH1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB6_MJ2CH2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB7_MJ2CH1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA8_MJ4CH2"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PA9_MJ4CH1"
       }
     ]
   },
