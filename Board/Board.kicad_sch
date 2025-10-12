@@ -5791,7 +5791,7 @@
 		)
 		(uuid "67e67b0c-3279-4072-85cb-1bc48d109a05")
 	)
-	(label "PB5_DR2AIN1"
+	(label "PB5_DR2AIN2"
 		(at 22.86 82.55 0)
 		(effects
 			(font
@@ -6131,7 +6131,7 @@
 		)
 		(uuid "fb87d32c-301d-4752-82bd-bcac67209dbd")
 	)
-	(label "PB5_DR2AIN1"
+	(label "PB5_DR2AIN2"
 		(at 185.42 120.65 0)
 		(effects
 			(font

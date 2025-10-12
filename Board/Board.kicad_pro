@@ -917,6 +917,10 @@
       {
         "netclass": "Signal",
         "pattern": "/PA9_MJ4CH1"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/PB5_DR2AIN2"
       }
     ]
   },
