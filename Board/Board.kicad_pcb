@@ -108,7 +108,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Output/")
+			(outputdirectory "Exports/")
 		)
 	)
 	(net 0 "")
