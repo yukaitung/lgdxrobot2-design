@@ -3239,6 +3239,10 @@
 		(uuid "02bf2aef-31b9-426a-b122-d2721baadb3e")
 	)
 	(no_connect
+		(at 74.93 100.33)
+		(uuid "0422e73d-63b3-4ba7-9da5-c7f49484aa58")
+	)
+	(no_connect
 		(at 74.93 72.39)
 		(uuid "11cf006a-cc1f-4cb1-8b93-9cfe0ccab868")
 	)
@@ -3309,10 +3313,6 @@
 	(no_connect
 		(at 74.93 77.47)
 		(uuid "e9c545c3-dc0b-4892-9a1b-161114fa7928")
-	)
-	(no_connect
-		(at 74.93 102.87)
-		(uuid "f42075fd-4a5e-42c1-ba74-cbddeaa19c73")
 	)
 	(no_connect
 		(at 148.59 110.49)
@@ -3593,16 +3593,6 @@
 			(type default)
 		)
 		(uuid "29fe7009-acf9-4739-ae9a-961b58fadda5")
-	)
-	(wire
-		(pts
-			(xy 74.93 100.33) (xy 78.74 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c0d933a-348c-458a-9d21-e80048cbeca9")
 	)
 	(wire
 		(pts
@@ -4573,6 +4563,16 @@
 			(type default)
 		)
 		(uuid "ac73aeba-71a8-488b-bd7b-931b3852bec3")
+	)
+	(wire
+		(pts
+			(xy 74.93 102.87) (xy 78.74 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad187b87-5440-4415-b73c-3b5243eb5b90")
 	)
 	(wire
 		(pts
@@ -5562,7 +5562,7 @@
 		(uuid "1c12b36d-2236-445c-be91-c36ba88d8f49")
 	)
 	(label "GND23"
-		(at 78.74 100.33 0)
+		(at 78.74 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
