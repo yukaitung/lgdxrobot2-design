@@ -5,7 +5,7 @@
 LGDXRobot2 is a fully open-source AGV robot that includes the hardware design. This repository contains the controller circuit board design and the robot’s CAD files. It also provides export files for manufacturing the parts without the need to install any software.
 
 - [Homepage](https://lgdxrobot.bristolgram.uk/lgdxrobot2/)
-- [Documentation](https://docs.lgdxrobot.bristolgram.uk/lgdxrobot2/ros2/)
+- [Documentation](https://docs.lgdxrobot.bristolgram.uk/lgdxrobot2/)
 - LGDXRobot2 Design: ([GitLab](https://gitlab.com/yukaitung/lgdxrobot2-design) | [GitHub](https://github.com/yukaitung/lgdxrobot2-design))
 - LGDXRobot2 MCU: ([GitLab](https://gitlab.com/yukaitung/lgdxrobot2-mcu) | [GitHub](https://github.com/yukaitung/lgdxrobot2-mcu))
 - LGDXRobot2 ChassisTuner: ([GitLab](https://gitlab.com/yukaitung/lgdxrobot2-chassistuner) | [GitHub](https://github.com/yukaitung/lgdxrobot2-chassistuner))
