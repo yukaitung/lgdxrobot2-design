@@ -3386,6 +3386,10 @@
 		(uuid "0422e73d-63b3-4ba7-9da5-c7f49484aa58")
 	)
 	(no_connect
+		(at 74.93 102.87)
+		(uuid "06071f32-3271-4381-8276-e0039f92578f")
+	)
+	(no_connect
 		(at 148.59 163.83)
 		(uuid "299aa103-14f8-44ee-b528-5eef060e7458")
 	)
@@ -4607,16 +4611,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 102.87) (xy 78.74 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad187b87-5440-4415-b73c-3b5243eb5b90")
-	)
-	(wire
-		(pts
 			(xy 232.41 44.45) (xy 233.68 44.45)
 		)
 		(stroke
@@ -5652,7 +5646,7 @@
 		)
 		(uuid "1dc4cd47-f06f-4578-aa4e-0dc49968b0d1")
 	)
-	(label "PB12_DR1BIN1"
+	(label "PB12_DR1BIN2"
 		(at 22.86 97.79 0)
 		(effects
 			(font
@@ -5681,16 +5675,6 @@
 			(justify left bottom)
 		)
 		(uuid "2325bb9c-25d4-4a7c-a4b2-2dd7f33136de")
-	)
-	(label "GND23"
-		(at 78.74 102.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "24765588-a93a-4624-a223-5d1dc4e4b237")
 	)
 	(label "PA10_NCS"
 		(at 78.74 67.31 0)
@@ -5722,7 +5706,7 @@
 		)
 		(uuid "2bf2f0ff-bc3a-4536-ba1b-1ca9f70171c6")
 	)
-	(label "PB13_DR1BIN2"
+	(label "PB12_DR1BIN2"
 		(at 185.42 64.77 0)
 		(effects
 			(font
@@ -5782,7 +5766,7 @@
 		)
 		(uuid "462e6e41-b88d-452b-a22c-b9e5266884e9")
 	)
-	(label "PA3_DR1PWMA"
+	(label "PA3_DR1PWMB"
 		(at 78.74 49.53 0)
 		(effects
 			(font
@@ -5832,7 +5816,7 @@
 		)
 		(uuid "57592576-8cdf-4ff1-b1d3-90085d407b61")
 	)
-	(label "PA5_DR1PWMB"
+	(label "PA3_DR1PWMB"
 		(at 185.42 52.07 0)
 		(effects
 			(font
@@ -5882,7 +5866,7 @@
 		)
 		(uuid "60d7e9cf-2f1c-4638-85e8-fdaa64f78892")
 	)
-	(label "PB13_DR1BIN2"
+	(label "PB13_DR1BIN1"
 		(at 22.86 100.33 0)
 		(effects
 			(font
@@ -6012,7 +5996,7 @@
 		)
 		(uuid "86d834d7-a952-489c-9d3a-3c88dfd02c83")
 	)
-	(label "PA3_DR1PWMA"
+	(label "PA5_DR1PWMA"
 		(at 185.42 49.53 0)
 		(effects
 			(font
@@ -6022,7 +6006,7 @@
 		)
 		(uuid "871bd20c-73c4-4694-9d9a-08885bdb70e9")
 	)
-	(label "PA5_DR1PWMB"
+	(label "PA5_DR1PWMA"
 		(at 78.74 54.61 0)
 		(effects
 			(font
@@ -6182,7 +6166,7 @@
 		)
 		(uuid "c36a1293-e838-4eac-864c-7e90ac362b72")
 	)
-	(label "GND23"
+	(label "GND47"
 		(at 256.54 143.51 0)
 		(effects
 			(font
@@ -6222,7 +6206,7 @@
 		)
 		(uuid "d7cdc74d-0b00-40f0-bd99-51219de6511e")
 	)
-	(label "PB12_DR1BIN1"
+	(label "PB13_DR1BIN1"
 		(at 185.42 62.23 0)
 		(effects
 			(font
