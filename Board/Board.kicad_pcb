@@ -1606,7 +1606,7 @@
 		(at 117.19 109 -90)
 		(descr "JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH vertical")
-		(property "Reference" "J3"
+		(property "Reference" "+J3"
 			(at 1 -2.9 90)
 			(layer "F.SilkS")
 			(uuid "dde49a5c-2365-4a47-80e7-e64b82c865dd")
@@ -3670,7 +3670,7 @@
 		(at 155.5 105.5)
 		(descr "JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH vertical")
-		(property "Reference" "J4"
+		(property "Reference" "J4+"
 			(at 1 -2.9 0)
 			(layer "F.SilkS")
 			(uuid "67f49996-ac6a-463c-9e48-6f2de02738a6")
@@ -4124,7 +4124,7 @@
 		(at 117.12 126 -90)
 		(descr "JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH vertical")
-		(property "Reference" "J2"
+		(property "Reference" "+J2"
 			(at 1 -2.9 90)
 			(layer "F.SilkS")
 			(uuid "3eda7c81-c42f-46e7-b079-2d1758db8586")
@@ -8004,7 +8004,7 @@
 		(uuid "9ee44d33-35d6-4fad-931b-4224e48c37f7")
 		(at 122.5 130.54 -90)
 		(property "Reference" "RS1"
-			(at 0 2.5 90)
+			(at 10.96 0.25 90)
 			(layer "F.SilkS")
 			(uuid "b1f6216e-8615-4327-805d-c91881b78ce1")
 			(effects
