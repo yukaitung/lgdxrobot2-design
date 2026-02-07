@@ -19,7 +19,7 @@ This repository contains the controller circuit board design and the robot’s C
 
 ## Getting Started
 
-## Chassis
+### Chassis
 
 The `Chassis` folder contains the CAD files for the robot. These files require FreeCAD to open. The exported files are located in the `Chassis/Exports` folder.
 
@@ -32,5 +32,3 @@ To manufacture the chassis, you can submit the files in the `Chassis/Exports` fo
 The `Board` folder contains the design files for the controller board. The board is designed using KiCad, and the exported files are located in the `Board/Exports` folder.
 
 To manufacture the board, simply zip the contents of the `Board/Exports` folder and send it to a PCB manufacturer.
-
-
