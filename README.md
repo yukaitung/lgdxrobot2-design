@@ -2,6 +2,8 @@
 
 ## Overview
 
+LGDXRobot2 is a Mecanum wheels mobile robot 
+
 This repository contains the controller circuit board design and the robot’s CAD files. It also provides export files for manufacturing the parts without the need to install any software.
 
 ![LGDXRobot2 All Repositories](lgdxrobo2_repos.png)
@@ -13,8 +15,8 @@ This repository contains the controller circuit board design and the robot’s C
 
 ### Getting Help
 
-* [Homepage](https://lgdxrobot.bristolgram.uk/lgdxrobot2/)
-* [Documentation](https://docs.lgdxrobot.bristolgram.uk/lgdxrobot2/)
+* [Homepage](https://bristolgram.uk/lgdxrobot2/)
+* [Documentation](https://bristolgram.uk/lgdxrobot2/docs/)
 * Issue boards on both GitLab and GitHub
 
 ## Getting Started
