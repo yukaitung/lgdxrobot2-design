@@ -15,8 +15,8 @@ This repository contains the controller circuit board design and the robot’s C
 
 ### Getting Help
 
-* [Homepage](https://bristolgram.uk/lgdxrobot2/)
-* [Documentation](https://bristolgram.uk/lgdxrobot2/docs/)
+* [Homepage](https://lgdxrobot.uk/lgdxrobot2/)
+* [Documentation](https://lgdxrobot.uk/lgdxrobot2/docs/)
 * Issue boards on both GitLab and GitHub
 
 ## Getting Started
